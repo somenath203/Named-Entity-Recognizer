@@ -1,4 +1,5 @@
-streamlit==1.12.0
-spacy==3.7.4
-transformers==4.40.2
-pandas==2.2.0
+streamlit
+spacy
+https://huggingface.co/spacy/en_core_web_sm/resolve/main/en_core_web_sm-any-py3-none-any.whl
+transformers[torch]
+pandas
