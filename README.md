@@ -6,4 +6,4 @@ This project is designed to help you extract and categorize named entities from 
 Named Entity Recognition (NER) is a key task in natural language processing that involves identifying and classifying key information (entities) in text into predefined categories. This can include names of people, 
 organizations, locations, expressions of times, quantities, monetary values, percentages, etc.
 
-The web application of this project is built with Streamlit and utilizes spaCy and transformers to provide an interactive web interface built on top of Streamlit for performing NER on user-input text.
+The web application of this project is built with Streamlit to provide an interactive web interface for performing NER on user-input text.
