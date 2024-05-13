@@ -8,7 +8,7 @@ import pandas as pd
 
 st.title('Named Entity Recognizer')
 
-st.write('Named Entity Recognition (NER) is like a smart highlighter that scans through text and highlights important words, such as people’s names, places, companies, and dates. It’s a tool used in language processing that helps computers understand and organize chunks of text by picking out these key terms and saying, “Hey, this word is a location, and this one is a person’s name.” By doing this, NER helps turn messy, unstructured text into neat, organized data that’s easier for machines to understand and work with. It’s like teaching computers to read a map of words, so they can help us find the information we need much faster.')
+st.write('Named Entity Recognition (NER) is like a smart highlighter that scans through text and highlights important words, such as people’s names, places, companies, and dates.')
 
 st.write('')
 
